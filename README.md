@@ -1,1 +1,1 @@
-# Login-Register-Home-Page-w-Animation
+# Login-Register-Home-Page-w-Animation (desktop only)
